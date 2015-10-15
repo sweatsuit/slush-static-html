@@ -2,8 +2,8 @@
   "name": "<%= appNameSlug %>",
   "version": "0.1.0",
   "devDependencies": {
-    "gulp-connect": "^2.0.6",
     "gulp": "^3.8.6",
+    "browser-sync": "~2.9.11",
     "gulp-sass": "2.0.4"
   }
 }
